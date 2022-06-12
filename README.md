@@ -28,4 +28,4 @@ Anyway, I am open to suggestions and ready to learn new technologies.
 ## Contact
 :email: wojciech.szczygielski91@gmail.com <br/>
 :page_facing_up: http://wojciech-sz.infinityfreeapp.com/ <br/>
-https://www.linkedin.com/in/wojciech-szczygielski-428801228/
+:boy: https://www.linkedin.com/in/wojciech-szczygielski-428801228/
