@@ -12,6 +12,7 @@ In my spare time I train crossfit and enjoy bike-gravel riding :bike:
 + HTML & CSS
 + JavaScript
 + React
++ CSS framework(bootstrap, tailwind, styled-components)
 + Node.js
 + Git 
 + Heroku
