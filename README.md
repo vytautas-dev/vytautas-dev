@@ -20,8 +20,7 @@ In my spare time I train crossfit and enjoy bike-gravel riding :bike:
 + Mongoose & MongoDB
 + TypeScript in progress...
 
-My main interest is React and its connection to full-stack devolopment with MERN technology. 
-Anyway, I am open to suggestions and ready to learn new technologies. 
+I'm open and ready to learn new technologies. Looking for a place where I can develop myself.
 
 
 
