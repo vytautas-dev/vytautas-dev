@@ -5,7 +5,7 @@ I'm looking for my first job as a front-end JavaScript developer. I completed ma
 
 I currently works as a CAD and vector graphic designer in advertisement company and at the same time I'm also deals with project management of visual-marking projects. :pencil:
 
-In my spare time I train crossfit and enjoy bike-gravel riding :bike: 
+In my spare time I train crossfit and enjoy bike-gravel cycling :bike: 
 
 ## My skills
 
