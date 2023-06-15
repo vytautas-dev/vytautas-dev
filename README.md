@@ -16,6 +16,8 @@ JavaScript developer from Warsaw 🇵🇱
 + REST API
 + Graphql
 + Websocket
+### Test automatization
++ Jest
 ### Microservices Architecture
 + Docker
 + Apache Kafka
@@ -23,5 +25,8 @@ JavaScript developer from Warsaw 🇵🇱
 ### Version control tools
 + Git
 + GitHub & GitLab
+### IDE/editors
++ Webstorm
++ VSC
 ### Operating system
 + Linux
