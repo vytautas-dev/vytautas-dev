@@ -12,6 +12,10 @@ JavaScript developer from Warsaw 🇵🇱
 + MongoDB & Mongoose
 + MySQL
 + Redis
+### APIs languages
++ REST API
++ Graphql
++ Websocket
 ### Microservices Architecture
 + Docker
 + Apache Kafka
